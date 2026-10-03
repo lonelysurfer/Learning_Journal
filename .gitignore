@@ -1,0 +1,21 @@
+# IDE / editor
+.idea/
+.vscode/
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Data / outputs (uncomment to exclude large artifacts)
+# *.keras
+# *.h5
