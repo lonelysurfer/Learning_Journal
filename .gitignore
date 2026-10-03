@@ -16,6 +16,15 @@ Thumbs.db
 Desktop.ini
 .DS_Store
 
-# Data / outputs (uncomment to exclude large artifacts)
+# Datasets (download separately - see README)
+*.csv
+*.zip
+*.gz
+*.tar
+*.7z
+
+# Model artifacts (uncomment to exclude)
 # *.keras
 # *.h5
+# *.pt
+# *.pth
